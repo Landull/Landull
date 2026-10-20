@@ -40,3 +40,12 @@
 
 Cybersecurity professional specializing in **digital forensics** and **incident response**.
 
+## Toolkits
+
+Small, dependency-free Python command-line tools, grouped into three kits.
+
+| Kit | Focus | Tools |
+|---|---|---|
+| [**forensickit**](https://github.com/stars/Landull/lists/forensickit) | Digital forensics and incident response | [hashcheck](https://github.com/Landull/hashcheck) · [metacheck](https://github.com/Landull/metacheck) · [iocheck](https://github.com/Landull/iocheck) · [histcheck](https://github.com/Landull/histcheck) · [timecheck](https://github.com/Landull/timecheck) · [sigcheck](https://github.com/Landull/sigcheck) |
+| [**auditkit**](https://github.com/stars/Landull/lists/auditkit) | IT and security audits | [headeraudit](https://github.com/Landull/headeraudit) · [mailaudit](https://github.com/Landull/mailaudit) · [certaudit](https://github.com/Landull/certaudit) · [pwaudit](https://github.com/Landull/pwaudit) · [useraudit](https://github.com/Landull/useraudit) · [sysaudit](https://github.com/Landull/sysaudit) |
+| [**scankit**](https://github.com/stars/Landull/lists/scankit) | Discovery and scanning | [netscan](https://github.com/Landull/netscan) · [portscan](https://github.com/Landull/portscan) · [subscan](https://github.com/Landull/subscan) · [wifiscan](https://github.com/Landull/wifiscan) · [logscan](https://github.com/Landull/logscan) · [secretscan](https://github.com/Landull/secretscan) |
