@@ -40,4 +40,3 @@
 
 Cybersecurity professional specializing in **digital forensics** and **incident response**.
 
-I also build computers on the side at [dulltek](https://dulltek.com).
